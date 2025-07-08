@@ -1,1 +1,3 @@
 # DataProject-Logica.-Katas-Python
+Dataproyect. Lógica. katas python Este proyecto realiza un análisis lógico con diferentes ejercicios utilizando el lenguaje de programación Python. El objetivo es responder de manera lógica a los diferentes enunciados para obtener los resultados de los ejercicios, poniendo en práctica los fundamentos de Python. 🗂️ Estructura del Proyecto├── data/EnunciadoDataProjectPython├── src/katas_python.py Entidad Relacion ProyectoSQL ├── README.md 🛠️ Instalación y Requisitos Este proyecto utiliza Visual Studio Code y Python. ✒️ Autor ● Maria Cristina Martínez Gutiérrez
+● @Mariacris155
